@@ -6,5 +6,5 @@ npm i
 npm run dev
 json-server --watch --port 4000 ./_data/db.json
 
-username: admin
+username: admin &&
 password: 123456
